@@ -19,8 +19,6 @@ namespace LogiSimLoader.LogiSim
             // get this object's ElementName
             var elName = GetElementName(currentObject);
 
-            Console.WriteLine(elName);
-
             xw.WriteStartElement(elName);
 
             // sort fields so simple attributes come FIRST, then ELEMENT CONTENTS (important, XmlWriter CANNOT handle this on its own)

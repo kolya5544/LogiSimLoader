@@ -1,7 +1,7 @@
 # LogiSimLoader
 ## _Parse LogiSim files into C# objects_
 
-<img alt="DotNet" src="https://www.vectorlogo.zone/logos/nuget/dotnet-icon.svg" width="40" height="40" style="display: inline;" />
+<img alt="DotNet" src="https://www.vectorlogo.zone/logos/dotnet/dotnet-icon.svg" width="40" height="40" style="display: inline;" />
 <img alt="NuGet" src="https://www.vectorlogo.zone/logos/nuget/nuget-icon.svg" width="40" height="40" style="display: inline;" />
 <img alt="XML" src="https://www.vectorlogo.zone/logos/w3c_xml/w3c_xml-icon.svg" width="40" height="40" style="display: inline;" />
 
